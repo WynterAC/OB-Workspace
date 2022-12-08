@@ -11,9 +11,9 @@ aliases:
 
 ## Highlights && Notes
 
-## 思绪飞扬
+## Thoughts and Comments
 
-## 总结输出
+## Summary
 
 ## References
 1. 
