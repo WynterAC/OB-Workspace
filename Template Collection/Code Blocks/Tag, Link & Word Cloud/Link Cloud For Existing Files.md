@@ -1,8 +1,0 @@
-```linkcloud
-type: resolved
-```
-
-
-
-
-

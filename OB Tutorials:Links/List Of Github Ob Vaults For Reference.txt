@@ -1,0 +1,21 @@
+List of Obsidian Vaults on Github:  
+https://github.com/masonlr/obsidian-starter-templates.git 
+https://github.com/deathau/obsidian-snippets.git 
+https://github.com/bencodezen/bens-obsidian-boilerplate.git 
+https://github.com/m-dwyer/obsidian-vault-template.git
+https://github.com/Purple-CSGO/Obsidian-Vault-Template.git 
+https://github.com/sheldonxxd/obsidian_vault_template_for_researcher.git 
+https://github.com/Hunter-Bobeck/Felewin-Obsidian-Template.git 
+https://github.com/chetachiezikeuzor/Obsidian-Templates.git 
+https://github.com/Magic-wei/obsidian_wiki_template.git 
+https://github.com/bobheadxi/obsidian-css-snippets.git 
+https://github.com/Gogeta1217/obsidian-templates.git 
+https://github.com/tanepiper/obsidian-garden.git
+https://github.com/trustedsec/Obsidian-Vault-Structure.git 
+https://github.com/llZektorll/OB_Template.git 
+https://github.com/tuan3w/obsidian-template.git
+https://github.com/EliWimmer/Obsmd-Life-Manager.git 
+https://github.com/Rainbell129/Obsidian-Homepage.git 
+https://github.com/belen-albeza/obsidian-starter-vault.git
+https://github.com/Pamela-Wang/Obsidian-Starter-Vaults.git 
+https://github.com/shawngraham/obsidian-student-starter-vault.git

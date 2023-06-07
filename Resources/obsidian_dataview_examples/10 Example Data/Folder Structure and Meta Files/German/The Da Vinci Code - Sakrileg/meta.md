@@ -1,4 +1,0 @@
----
-id: DVC
-lang: DE
----

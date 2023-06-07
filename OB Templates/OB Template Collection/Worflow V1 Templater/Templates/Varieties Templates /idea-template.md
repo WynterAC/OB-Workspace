@@ -1,0 +1,6 @@
+---
+tags: idea
+---
+# Idea
+
+# Applications
