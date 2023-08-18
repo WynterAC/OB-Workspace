@@ -1,1 +1,0 @@
- [[<% tp.date.now("YYYY") %>-<% tp.date.now("MM") %>-<% tp.date.now("DD") %>]]

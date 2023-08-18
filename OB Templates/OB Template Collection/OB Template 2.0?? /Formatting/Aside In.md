@@ -1,1 +1,0 @@
-<s class="aside-in"><%tp.file.cursor(0)%></s> <%tp.file.cursor(1)%>

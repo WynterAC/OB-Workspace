@@ -1,5 +1,0 @@
----
-tags: article
-author:
-url:
----
