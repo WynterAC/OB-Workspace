@@ -1,1 +1,0 @@
-[[<% (await tp.file.create_new(tp.file.find_tfile("Project Template"), tp.date.now("YYYY-MM-DD") + " New Project", false)).basename %>]]

@@ -1,4 +1,0 @@
----
-id: MOG
-lang: EN
----

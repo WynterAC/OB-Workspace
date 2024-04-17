@@ -1,1 +1,0 @@
-The findings, released late Wednesday by U.N. Human Rights Commissioner Michelle Bachelet in the final hour of her tenure, point to "serious human rights violations" against Uyghurs and other groups. China had opposed Bachelet's investigation, claiming it was politically motivated.

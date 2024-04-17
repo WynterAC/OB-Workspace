@@ -1,3 +1,0 @@
-```wordcloud
-source: file
-```
