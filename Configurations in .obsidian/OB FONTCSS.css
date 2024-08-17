@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue Thin Italic'), local('HelveticaNeue-ThinItalic'),
+        url('HelveticaNeue-ThinItalic.woff') format('woff'),
+        url('HelveticaNeue-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue UltraLight'), local('HelveticaNeue-UltraLight'),
+        url('HelveticaNeue-UltraLight.woff') format('woff'),
+        url('HelveticaNeue-UltraLight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue Italic'), local('HelveticaNeue-Italic'),
+        url('HelveticaNeue-Italic.woff') format('woff'),
+        url('HelveticaNeue-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue UltraLight Italic'), local('HelveticaNeue-UltraLightItalic'),
+        url('HelveticaNeue-UltraLightItalic.woff') format('woff'),
+        url('HelveticaNeue-UltraLightItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue Thin'), local('HelveticaNeue-Thin'),
+        url('HelveticaNeue-Thin.woff') format('woff'),
+        url('HelveticaNeue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue'), local('HelveticaNeue'),
+        url('HelveticaNeue.woff') format('woff'),
+        url('HelveticaNeue.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue Light Italic'), local('HelveticaNeue-LightItalic'),
+        url('HelveticaNeue-LightItalic.woff') format('woff'),
+        url('HelveticaNeue-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue Light'), local('HelveticaNeue-Light'),
+        url('HelveticaNeue-Light.woff') format('woff'),
+        url('HelveticaNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue Medium'), local('HelveticaNeue-Medium'),
+        url('HelveticaNeue-Medium.woff') format('woff'),
+        url('HelveticaNeue-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: local('SF Pro Display Regular'), local('SFProDisplay-Regular'),
+        url('SFProDisplay-Regular.woff') format('woff'),
+        url('SFProDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: local('SF Pro Display Light'), local('SFProDisplay-Light'),
+        url('SFProDisplay-Light.woff') format('woff'),
+        url('SFProDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    src: local('SF Pro Display Thin'), local('SFProDisplay-Thin'),
+        url('SFProDisplay-Thin.woff') format('woff'),
+        url('SFProDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shree Devanagari 714';
+    src: local('Shree Devanagari 714'), local('ShreeDev0714'),
+        url('https://raw.githubusercontent.com/WynterAC/Digital-Resources/8aadc982ec2365535f09ae015a69db23ac69aa41/_Font%20Library%20/Font%20Files%20/Monospace/Shree-Devanagari-714.ttf') format('truetype'),
+        url("https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.ttf") format("truetype"),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial Unicode MS';
+    src: local('Arial Unicode MS'),
+        url('https://raw.githubusercontent.com/WynterAC/Digital-Resources/8aadc982ec2365535f09ae015a69db23ac69aa41/_Font%20Library%20/Font%20Files%20/Monospace/Arial%20Unicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
