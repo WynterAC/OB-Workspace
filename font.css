@@ -62,13 +62,6 @@
   src: url('./HelveticaNeue-Italic.woff') format('woff'),
        url('https://fonts.cdnfonts.com/s/62895/HelveticaNeueItalic.woff') format('woff');
 }
-@font-face {
-    font-family: 'Arial Unicode MS';
-    src:url('./ArialUnicodeMS.ttf') format('truetype'),
-		url('https://github.com/WynterAC/Digital-Resources/blob/8aadc982ec2365535f09ae015a69db23ac69aa41/_Font%20Library%20/Font%20Files%20/Monospace/Arial%20Unicode.ttf') format('ttf');
-    font-weight: normal;
-    font-style: normal;
-}
 
 @font-face {
   font-family: "Shree Devanagari 714";
