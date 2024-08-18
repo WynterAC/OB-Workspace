@@ -74,27 +74,46 @@
   font-family: "Shree Devanagari 714";
   font-style: normal;
   font-weight: 400;
-  src: url('./Shree-Devanagari-714.woff') format('woff'),
-       url('https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.eot'),
-       url('https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.eot?#iefix') format('embedded-opentype'),
-       url('https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.woff2') format('woff2'),
-       url('https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.woff') format('woff'),
-       url('https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.ttf') format('truetype'),
-       url('https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.svg#Shree Devanagari 714') format('svg');
+  src: url('./Shree-Devanagari-714.ttf') format('tff'),
+       url('https://db.onlinewebfonts.com/t/d02befc8fdd8e5315fb21fa7f38fd55a.woff') format('woff');
 }
 @font-face {
   font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 100;
-  src: url('./SFProDisplay-Thin.woff') format('woff');
+  src: url('./SFProDisplay-UltraLight.woff') format('woff');
 }
-
 @font-face {
   font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 200;
+  src: url('./SFProDisplay-Thin.woff') format('woff');
+}
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
   src: url('./SFProDisplay-Light.woff') format('woff');
 }
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: italic;
+  font-weight: 100;
+  src: url('./SFProDisplay-UltraLightItalic.woff') format('woff');
+}
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: italic;
+  font-weight: 200;
+  src: url('./SFProDisplay-ThinItalic.woff') format('woff');
+}
+@font-face {
+  font-family: "SF Pro Display";
+  font-style: italic;
+  font-weight: 300;
+  src: url('./SFProDisplay-LightItalic.woff') format('woff');
+}
+
 
 
 /* Set font for editor */
