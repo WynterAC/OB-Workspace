@@ -55,13 +55,13 @@ code, pre {
 /* Define font faces for Helvetica Neue and SF Pro Display */
 @font-face {
   font-family: "Helvetica Neue";
-  src: url('./HelveticaNeue-Thin.ttf') format('truetype');
+  src: url('./HelveticaNeue-Thin.woff') format('truetype');
   font-weight: 150;
 }
 
 @font-face {
   font-family: "Helvetica Neue";
-  src: url('./HelveticaNeue-Light.ttf') format('truetype');
+  src: url('./HelveticaNeue-Light.woff') format('truetype');
   font-weight: 200;
 }
 
